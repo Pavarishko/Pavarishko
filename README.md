@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Karim Motygullin
+- 👋 Hi, I’m Karim Motygullin (text me via telegram @Pavarishko)
 - 🌱 1st year undergradute student in AMI FCS HSE programme 
 - 👀 Purple on codeforces
 - 😄 ROI prize winner
